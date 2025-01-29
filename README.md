@@ -19,7 +19,7 @@
 - 🎓 Second-year **BSc (Hons) Computer Science** undergraduate at **University of Westminster**.
 - 🔥 Passionate about **building scalable, high-performance back-end systems**.
 - ⚡ Currently diving deep into **Spring Boot, Node.js, and database optimization**.
-- ⚡ Exploring **real-time applications, microservices, and cloud technologies**.
+- 🌍 Exploring **real-time applications, microservices, and cloud technologies**.
 - 💡 Always looking to **collaborate** on exciting backend projects.
 
 ---
