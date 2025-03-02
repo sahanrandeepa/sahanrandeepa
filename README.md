@@ -49,11 +49,11 @@
 
 ## **📈 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" width="49.5%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" width="49.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahanrandeepa&show_icons=true&theme=radical" alt="GitHub Stats" width="49.5%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahanrandeepa&theme=radical" alt="GitHub Streak" width="49.5%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" width="49.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahanrandeepa&layout=compact&theme=radical" alt="Top Languages" width="49.5%"/>
 </p>
 
 ---
