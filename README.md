@@ -61,7 +61,7 @@
 ## **📫 Connect With Me**
 - 💬 Ask me about **Spring Boot, Node.js, MongoDB, and System Design**.
 - 📧 Reach me at **sahanwaniganayake@gmail.com**.
-- 🌐 Check out my portfolio **[sahanrandeepa.site](sahanrandeepa.site)**.
+- 🌐 Check out my portfolio **[www.sahanrandeepa.site](www.sahanrandeepa.site)**.
 
 ---
 
